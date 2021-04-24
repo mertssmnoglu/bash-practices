@@ -1,6 +1,6 @@
-# Shell Basics and Scripts
+# Bash Shell Basics and Scripts
 
-Useful Shell Basics and Scripts for Everyone
+Useful Bash Shell Basics and Scripts for Everyone
 
 ## Topics
 - [x] Echo
