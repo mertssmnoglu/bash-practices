@@ -5,7 +5,7 @@ Useful Bash Shell Basics and Scripts for Everyone
 ## Topics
 - [x] Echo
 - [x] Variables
-- [ ] Arguments
+- [x] Arguments
 - [ ] If Else
 - [ ] Loops
 - [ ] Scripts (2 or more)
