@@ -4,6 +4,10 @@
 
 ![Echo](./assets/tr_echo.png)
 
-### Variables
+### Değişkenler
 
-![Variables](./assets/tr_variables.png)
+![Değişkenler](./assets/tr_variables.png)
+
+### Argümanlar
+
+![Argümanlar](./assets/tr_arguments.png)
